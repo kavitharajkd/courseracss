@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Template</title>
+    <link rel="stylesheet" type="text/css" href="styletest.codepen.css">
+  </head>
+  <body>
+    <header class="banner">
+      <h1>Funny Funpage</h1>
+      <p>Featuring a random video and german jokes</p>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="http://www.w3newbie.com/wp-content/uploads/push-ups.png">Wie alles begann</a></li>
+        <li><a href="http://www.w3newbie.com/wp-content/uploads/chest-fly.png">Stammbaum</a></li>
+		<li><a href="http://www.w3newbie.com/wp-content/uploads/training.png">Tennis</a></li>
+        <li><a href="https://de.wikipedia.org/wiki/Vier_Br%C3%BCder">4Brothers</a></li>
+        <li><a href="about.html">Connors Corner</a></li>
+	  </ul>
+    </nav>
+
+    <main>
+      <section>
+        <h2>Neuigkeiten</h2>
+        <article>
+          <header>
+            <h3>Joke attack</h3>
+            <p>(today)</p>
+          </header>
+          <p>two tomatoes are walking over a street. one tomate to be run over by car. turns the first tomato around and says "hey, you are ketchup right now."</p>
+        </article>
+
+        <article>
+          <header>
+            <h3>Fun part 2</h3>
+            <p>(Moe from the simpsons, 19.06.2016)</p>
+          </header>
+          <p>A man walks in the bar and, actually a horse walks into a bar. asks the barkeeper: "why the long face?" - End of Joke</p>
+        </article>
+      </section>
+
+      <section>
+        <h2>Neueste Videos</h2>
+        <article>
+          <header>
+            <h3>Lachender Man</h3>
+            <p>(Jenny Gump, 18.60.2016)</p>
+          </header>
+          <p>Lachende Menschen fahren Fahrrad.</p>
+          <p>Es ist immer wieder schön anzusehen.</p>
+			<video controls autoplay>
+				<source src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/ollie.mp4" type="video/mp4">
+			</video>
+		  </article>
+
+        <article>
+          <header>
+            <h3>Oma tanzt wild auf der Straße</h3>
+            <p>(Anoach, 17.06.2016)</p>
+          </header>
+          <p>Wilde Oma tanzt wild.</p>
+          <p>Passanten verblüfft.</p>
+        </article>
+      </section>
+    </main>
+
+    <aside>
+      <h2>Be the next fitboy</h2>
+      <p>If you would like to be a part of our family<p>
+	  <p>- Send us a Text.</p>
+	  <img src="http://www.w3newbie.com/wp-content/uploads/inside-gym.png"> 
+    </aside>
+
+    <footer>
+      <p>Impressum</p>
+    </footer>
+
+  </body>
+</html>
